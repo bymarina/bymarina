@@ -1,5 +1,4 @@
 ### Hello! 
 
-- 🔭 I’m currently working on Front-end
-- 🌱 I’m currently learning React.js and Kotlin
+- 🌱 I’m currently learning Elixir
 - 📫 How to reach me: bymariina@gmail.com
